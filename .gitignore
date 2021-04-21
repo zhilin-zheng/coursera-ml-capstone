@@ -4,3 +4,7 @@ Positive/
 concrete_crack_images_for_classification.zip
 data/
 venv-capstone/
+__MACOSX/
+concrete_data_week2.zip
+concrete_data_week2/
+wget-log
