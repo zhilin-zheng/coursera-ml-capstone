@@ -8,3 +8,7 @@ __MACOSX/
 concrete_data_week2.zip
 concrete_data_week2/
 wget-log
+venv-py36/
+classifier_resnet_model.h5
+concrete_data_week3.zip
+concrete_data_week3/
